@@ -193,7 +193,7 @@ hr.small-b{
       -ms-transition: all 0.5s ease;
           transition: all 0.5s ease;
  
-	background: url(../img/me.jpg) no-repeat center center scroll;
+	background: url(../img/bgdark.jpg) no-repeat center center scroll;
     /*filter: blur(5px);
     -webkit-filter: blur(5px);
     -moz-filter: blur(5px);
@@ -229,7 +229,7 @@ hr.small-b{
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background: url(../img/bg.jpg) no-repeat left;
+	background: url(../img/me.jpg) no-repeat left;
     z-index: 2;
     background-position: left -30px top;
     background-size: 210px 210px;
@@ -274,13 +274,13 @@ section.module.parallax {
   background-size: cover;
 }
 section.module.parallax-1 {
-  background-image: url("../img/me.jpg");
+  background-image: url("../img/manit.jpg");
 }
 section.module.parallax-2 {
-	background-image: url("../img/me.jpg");
+	background-image: url("../img/board.jpg");
 }
 section.module.parallax-3 {
-  background-image: url("../img/me.jpg");
+  background-image: url("../img/hack.jpg");
 }
 section.module.parallax-4 {
   background-image: url("../img/me.jpg");
