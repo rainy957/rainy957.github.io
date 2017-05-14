@@ -216,7 +216,7 @@ hr.small-b{
        -o-transition: all 0.5s ease;
       -ms-transition: all 0.5s ease;
           transition: all 0.5s ease;
-    background: url(../img/me.jpg) no-repeat center center scroll;
+    background: url(../img/bg.jpg) no-repeat center center scroll;
 	-webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -229,7 +229,7 @@ hr.small-b{
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background: url(../img/me.jpg) no-repeat left;
+	background: url(../img/bg.jpg) no-repeat left;
     z-index: 2;
     background-position: left -30px top;
     background-size: 210px 210px;
