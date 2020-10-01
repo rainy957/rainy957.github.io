@@ -538,4 +538,26 @@
 		text-align: center;
 		color: rgba(0,0,0,.5);
 	}
-
+.name{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: yellow!important;
+    font-size: 70px;
+}
+.about{
+    color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 70px;
+}
+.project{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 70px;
+}
+.act{
+    color: rgb(0, 255, 98);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 70px;
+}
